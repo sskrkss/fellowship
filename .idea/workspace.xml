@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db126e78-ce57-4bbf-a645-b20e3738a61c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/compose.override.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="db126e78-ce57-4bbf-a645-b20e3738a61c" name="Changes" comment="v0 настройка окружения" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +162,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/sskrk/PhpstormProjects/fellowship",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -175,6 +172,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nginx/conf.d" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -192,11 +194,35 @@
       <option name="presentableId" value="Default" />
       <updated>1724154467942</updated>
       <workItem from="1724154468983" duration="633000" />
-      <workItem from="1724158162046" duration="1140000" />
+      <workItem from="1724158162046" duration="5798000" />
     </task>
+    <task id="LOCAL-00001" summary="v0 настройка окружения">
+      <option name="closed" value="true" />
+      <created>1724162909770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724162909770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v0 настройка окружения" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0 настройка окружения" />
   </component>
 </project>
