@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db126e78-ce57-4bbf-a645-b20e3738a61c" name="Changes" comment="v0 настройка окружения" />
+    <list default="true" id="db126e78-ce57-4bbf-a645-b20e3738a61c" name="Changes" comment="v0.1 настройка окружения">
+      <change afterPath="$PROJECT_DIR$/src/Controller/DeveloperController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/ProjectController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/DeleteProjectDto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/NewProjectDto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/ProjectService.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,13 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -163,18 +176,29 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/sskrk/PhpstormProjects/fellowship",
+    "last_opened_file_path": "/home/sskrk/PhpstormProjects/fellowship/docker/php",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/php" />
+      <recent name="$PROJECT_DIR$/docker/php-fpm" />
       <recent name="$PROJECT_DIR$/nginx/conf.d" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -195,6 +219,7 @@
       <updated>1724154467942</updated>
       <workItem from="1724154468983" duration="633000" />
       <workItem from="1724158162046" duration="5798000" />
+      <workItem from="1724164100568" duration="11445000" />
     </task>
     <task id="LOCAL-00001" summary="v0 настройка окружения">
       <option name="closed" value="true" />
@@ -204,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724162909770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v0.1 настройка окружения">
+      <option name="closed" value="true" />
+      <created>1724172121844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724172121844</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +256,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v0 настройка окружения" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0 настройка окружения" />
+    <MESSAGE value="v0.1 настройка окружения" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.1 настройка окружения" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
